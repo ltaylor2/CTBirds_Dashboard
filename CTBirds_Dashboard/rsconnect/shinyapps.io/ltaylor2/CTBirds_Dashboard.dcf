@@ -1,0 +1,12 @@
+name: CTBirds_Dashboard
+title: CTBirds_Dashboard
+username: ltaylor2
+account: ltaylor2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11508326
+bundleId: 8380154
+url: https://ltaylor2.shinyapps.io/CTBirds_Dashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
